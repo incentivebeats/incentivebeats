@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I don't know much about anything. I make music. like Linux & FreeBSD, and work as a sysadmin. Here to learn.
+I don't know much about anything. I make music, like Linux & FreeBSD, and work as a sysadmin. Here to learn.
   
 [circle with a dot](https://circlewithadot.net)
 
