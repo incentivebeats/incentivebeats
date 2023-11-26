@@ -1,6 +1,6 @@
 ### James B Osborne / Incentive
 
-I don't know much about anything. I make music, like Linux & FreeBSD, and work as a sysadmin.
+I make music, like Linux & FreeBSD, and work as a sysadmin.
   
 🌐 [circle with a dot](https://circlewithadot.net)
 
