@@ -18,13 +18,13 @@ My own git, where I have more repos available
 #### Phantasy Star Online
 
 - [psopeeps-newserv](https://github.com/incentivebeats/psopeeps-newserv)  
-  Fork/custom server work for PSO Peeps Online.
+  Fork/custom server work
 
 - [psopeeps-ansible](https://github.com/incentivebeats/psopeeps-ansible)  
-  Ansible deployment/configuration work for PSO Peeps infrastructure.
+  Ansible deployment/configuration work for newserv
 
 - [psopeeps-newserv-timers](https://github.com/incentivebeats/psopeeps-newserv-timers)  
-  Systemd timer/service helpers for PSO Peeps XP scheduling and server automation.
+  Systemd timer/service helpers
 
 - [pso_pc-dll_files](https://github.com/incentivebeats/pso_pc-dll_files)  
   DLL/release assets for PSO PC work.
