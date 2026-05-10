@@ -1,4 +1,4 @@
-### James B Osborne / Incentive
+### James B Osborne / Incentive / Chuudoku
 
 I make music, like Linux & FreeBSD, and work as a sysadmin.
 
