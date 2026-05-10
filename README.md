@@ -1,5 +1,5 @@
 ### James B Osborne / Incentive / Chuudoku
-*Linux Administrator, Infra Designer, and DevOps Engineer*   
+*Linux Administrator, Infra Designer, DevOps Engineer, EFF Member*   
   
 I make music, like Linux & FreeBSD.
 
