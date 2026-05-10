@@ -1,6 +1,7 @@
 ### James B Osborne / Incentive / Chuudoku
-
-I make music, like Linux & FreeBSD, and work as a sysadmin.
+*Linux Administrator, Infra Designer, and DevOps Engineer*   
+  
+I make music, like Linux & FreeBSD.
 
 My music, technical work, and social links
 🌐 [circle with a dot](https://circlewithadot.net)  
